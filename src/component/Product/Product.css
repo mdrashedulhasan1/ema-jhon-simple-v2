@@ -1,0 +1,7 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid gray;
+}
+.product-name{
+    color: blue;
+}
