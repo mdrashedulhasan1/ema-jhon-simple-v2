@@ -5,3 +5,12 @@
 .product-name{
     color: blue;
 }
+.product-button{
+    height: 40px;
+    width: 40%;
+    background-color: coral;
+    border: 2px solid lightcoral;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
